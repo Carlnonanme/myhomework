@@ -1,4 +1,4 @@
-from Animal import Animal
+from homework.python脚本实战.Animal import Animal
 
 
 class Cat(Animal):
